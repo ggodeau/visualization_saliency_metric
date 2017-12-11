@@ -1,3 +1,4 @@
+# This code has been changed by Gabriel GODEAU
 This code is related to the paper [What do different evaluation metrics tell us about saliency models?](http://arxiv.org/abs/1604.03605). It allows for the visualization of different metric computations, to add transparency to evaluation, explain metric behavior, and debug saliency models.
 
 If you use any of this code, please cite: 
